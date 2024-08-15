@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lavinia Queiroz
 - 🌱 I’m currently learning Python and Java
-- 📫 How to reach me for whatsapp 11930746625 or email laviniasq5@gmail.com
+- 📫 How to reach me: for whatsapp 11930746625 or email laviniasq5@gmail.com
 - 😄 Pronouns: ela|dela
 
 <!---
