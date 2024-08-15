@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lavinia Queiroz
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning Java but i am a developer Python
 - 📫 How to reach me: for whatsapp 11930746625 or email laviniasq5@gmail.com
 - 😄 Pronouns: ela|dela
 
