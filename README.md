@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎲 Cientista de dados em formação | Exploradora de IA, Dados e Tecnologia.</p>
+<h2 align="left">🎲 Cientista de dados em formação | Exploradora de IA, Dados e Tecnologia.</h2>
 
 ###
 
