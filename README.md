@@ -2,15 +2,15 @@
 
 ###
 
-<h2 align="left">🎲 Cientista de dados em formação | Exploradora de IA, Dados e Tecnologia.</h2>
+<h4 align="left">🎲 Cientista de dados em formação | Exploradora de IA, Dados e Tecnologia.</h2>
 
 ###
 
-<h2 align="left">Sobre mim:<br><br>• 🖥️ Aluna Proa em desenvolvimento e programação Python.<br><br>• 📚Certificados: Databricks Fundamentals Certified, Google AI Essentials Certified, Google Data Analytics.<br><br>•  🎓Atualmente estudo Ciência de Dados com foco em: Deep Learning, Machine Learning, Big Data com GCP e Databricks, Visualização de Dados e Storytelling.</h2>
+<h4 align="left">Sobre mim:<br><br>• 🖥️ Aluna Proa em desenvolvimento e programação Python.<br><br>• 📚Certificados: Databricks Fundamentals Certified, Google AI Essentials Certified, Google Data Analytics.<br><br>•  🎓Atualmente estudo Ciência de Dados com foco em: Deep Learning, Machine Learning, Big Data com GCP e Databricks, Visualização de Dados e Storytelling.</h2>
 
 ###
 
-<h2 align="left">Eu programo com : <br><br>Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | SQL | Azure | Databricks | Jupyter | Git</h2>
+<h4 align="left">Eu programo com : <br><br>Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | SQL | Azure | Databricks | Jupyter | Git</h2>
 
 ###
 
