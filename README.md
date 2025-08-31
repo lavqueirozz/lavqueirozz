@@ -41,7 +41,7 @@
 ###
 
 <div align="left">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bGEl9v47XieEtHyj0TqTr1tOXJmib-KHtw&s" width="52" height="40" alt="linkedin logo"  />
+ <a href= http://www.linkedin.com/in/lav%C3%ADnia-queiroz> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bGEl9v47XieEtHyj0TqTr1tOXJmib-KHtw&s" width="52" height="40" alt="linkedin logo"/></a> 
   <img href="http://www.linkedin.com/in/lav%C3%ADnia-queiroz" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
 </div>
 
