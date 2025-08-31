@@ -42,7 +42,7 @@
 
 <div align="left">
  <a href= http://www.linkedin.com/in/lav%C3%ADnia-queiroz> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bGEl9v47XieEtHyj0TqTr1tOXJmib-KHtw&s" width="52" height="40" alt="linkedin logo"/></a> 
-  <a href="http://www.linkedin.com/in/lav%C3%ADnia-queiroz"><img src="https://miro.medium.com/v2/resize:fit:2400/1*6_fgYnisCa9V21mymySIvA.png" width="52" height="40" alt="medium logo" /></a>
+  <a href="https://medium.com/@laviniasq5"><img src="https://miro.medium.com/v2/resize:fit:2400/1*6_fgYnisCa9V21mymySIvA.png" width="52" height="40" alt="medium logo" /></a>
 </div>
 
 ###
