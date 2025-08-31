@@ -1,4 +1,4 @@
-<h1 align="left">Eu sou a Lavinia! 💜</h1>
+<h1 align="left">Eu sou a Lavinia! </h1>
 
 ###
 
