@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">Sobre mim:<br><br>• 🖥️ Aluna Proa em desenvolvimento e programação Python.<br><br>• 📚Certificados: Databricks Fundamentals Certified, Google AI Essentials Certified, Google Data Analytics.<br><br>•  🎓Atualmente estudo Ciência de Dados com foco em: Deep Learning, Machine Learning, Big Data com GCP e Databricks, Visualização de Dados e Storytelling.</h2>
+<h4 align="left">Sobre mim:<br>Estudante de Ciência da Computação <br>• 🖥️ Aluna Proa em desenvolvimento e programação Python.<br><br>• 📚Certificados: Databricks Fundamentals Certified, Google AI Essentials Certified, Google Data Analytics.<br><br>•  🎓Atualmente estudo Ciência de Dados com foco em: Deep Learning, Machine Learning, Big Data com GCP e Databricks, Visualização de Dados e Storytelling.</h2>
 
 ###
 
