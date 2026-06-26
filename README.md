@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">🎲 Cientista de dados em formação | Exploradora de IA, Dados e Tecnologia.</h2>
+<h4 align="left"> Engenharia de Dados 🎲 | Databricks, Pyspark, Python e SQL.</h2>
 
 ###
 
